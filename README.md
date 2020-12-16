@@ -10,7 +10,7 @@
    Aplicación para consultar el Clima de los países
     <br />
     <br />
-    <a href="https://crmapp-jc.netlify.app/">View Demo</a>
+    <a href="https://apiweatherapp-jc.netlify.app/">View Demo</a>
   </p>
 </p>
 
